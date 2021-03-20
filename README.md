@@ -1,4 +1,4 @@
-# Bikes in Amsterdam
-This project aims to discover public available data about bikes in Amsterdam. Living in the city of bike, which topic can be more relevant?
+# Expore Amsterdam
+This project aims to expore the data of the city and help you decide where to live.
 
 ## Data
